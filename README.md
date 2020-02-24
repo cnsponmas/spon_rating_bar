@@ -2,7 +2,7 @@
 
 simple demo
 
-![img](/Users/yanlinhong/临时目录/16cfbd875294f40b.gif)
+![img](https://raw.githubusercontent.com/cnsponmas/spon_rating_bar/master/shot/16cfbd875294f40b.gif)
 
 ## Getting Started
 
